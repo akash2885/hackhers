@@ -9,7 +9,7 @@ const Header = () => {
         <React.Fragment>
         <AppBar>
             <Typography variant={'h3'} sx={{margin: 'auto'}}>
-                HackHers Finance
+                finHERS
             </Typography>
         </AppBar>
             <Offset/>
